@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "5FCFD70D123CA88E018A0D51890B91E1",
+  "keywordClasses": [
+    {
+      "name": "com.wolken.screenshot.ScreenshotHelper",
+      "keywordMethods": [
+        {
+          "name": "takeWebElementScreenshot",
+          "parameters": [
+            {
+              "name": "object",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

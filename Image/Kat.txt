@@ -1,0 +1,21 @@
+Login
+1. Navigate to https://testkatalon.wolkencare.com/wolken/login
+2. I want to validate login page UI with screenshot or image
+3. Enter Email ID and Password and click on Login button(Please check ur email id for creds)
+4. Need to validate url (Stored url and current url comparision)
+5. Click on Create Case
+6. Need to check Mandatory values
+7. Select all the value
+8. If Possible add Inline attachment 
+10. Upload attachment
+11. Need to store all field data(Selected value) into variable or Excel to compare after case creation
+12. Click on Submit 
+13. Capture alert text and store 
+14. Split the text and store Case ID and compare it in Ticket view UI(It should match)
+15. If Case ID from alert = Case ID in UI 
+16. Compare Create Case values with View Case values
+17. Else
+18. Print a message
+
+
+Note: Data validation is important like Check the label and store it's value and Comparing after case creation

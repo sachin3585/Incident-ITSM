@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login</name>
+   <tag></tag>
+   <elementGuidId>07f36104-0299-4d12-93c1-fd6fc9dc8e08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c1-0.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>23b0d626-9089-4c31-b0a9-622809ddd130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>52f93dc5-0b9d-4e2f-ad79-a9ae48bf74b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c1-0 ng-star-inserted</value>
+      <webElementGuid>42bb120d-7e10-457a-a084-c1a97b925567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>41ce5dbd-2969-4f57-8849-6640f131c47e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;wolken-light-theme&quot;]/e-root[1]/e-wolken-login[@class=&quot;ng-tns-c1-0 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c1-0&quot;]/div[@class=&quot;login-wrap mat-typography&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;ng-tns-c1-0 ng-trigger ng-trigger-divSlideAnimation&quot;]/form[@class=&quot;bg-white login-form-container ng-tns-c1-0 ng-pristine ng-invalid ng-star-inserted ng-touched&quot;]/div[@class=&quot;login-section&quot;]/button[@class=&quot;btn-style&quot;]/span[@class=&quot;ng-tns-c1-0 ng-star-inserted&quot;]</value>
+      <webElementGuid>1ecd739f-89bd-41d3-aa9d-6ed4b921b1ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/following::span[1]</value>
+      <webElementGuid>171262aa-3b40-4da2-a06e-1f603d90e435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password is required'])[1]/following::span[1]</value>
+      <webElementGuid>07fbb26b-49b9-464b-9d8f-041a2880289c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::span[1]</value>
+      <webElementGuid>16bf649b-4d90-4e58-bfe0-0505af83f5e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[1]</value>
+      <webElementGuid>45376117-620d-487c-80a9-a6f273a7740e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>4f00afed-7dd7-45d8-a79c-73d9f8889536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>1937a9cf-52aa-4b39-8790-8507bc64e75d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

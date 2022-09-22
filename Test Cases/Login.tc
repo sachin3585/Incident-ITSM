@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea394b37-d288-4ffe-a75d-d37eed5eef02</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8ac20905-2f09-4c74-8fbc-bb12307fa199</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ecf5db83-d1e9-4ad8-9e0f-eb01f2be4ddc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7d1eb33-0a2e-446d-a397-cdcb6eb9f6af</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://brdcmitsmbst.wolkenservicedesk.com/wolken/login'</defaultValue>
+      <description></description>
+      <id>8ac20905-2f09-4c74-8fbc-bb12307fa199</id>
+      <masked>false</masked>
+      <name>loginUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'harshitha.hs@broadcom.com'</defaultValue>
+      <description></description>
+      <id>ecf5db83-d1e9-4ad8-9e0f-eb01f2be4ddc</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'welcome123'</defaultValue>
+      <description></description>
+      <id>c7d1eb33-0a2e-446d-a397-cdcb6eb9f6af</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

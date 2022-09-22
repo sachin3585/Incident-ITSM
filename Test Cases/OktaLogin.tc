@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OktaLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4033f58-d878-48a8-98fa-1d740225b4e1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c54806d6-778e-4d8c-8f29-94d26e62563e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>be31c8fc-e48f-41f0-bc91-df38988f3d91</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>28989052-7d79-4298-8c35-aa4fb8c202ca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://brdcmitsmbst.wolkenservicedesk.com/wolken/login-sso'</defaultValue>
+      <description></description>
+      <id>c54806d6-778e-4d8c-8f29-94d26e62563e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'hh030299'</defaultValue>
+      <description></description>
+      <id>be31c8fc-e48f-41f0-bc91-df38988f3d91</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'123@Okta'</defaultValue>
+      <description></description>
+      <id>28989052-7d79-4298-8c35-aa4fb8c202ca</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

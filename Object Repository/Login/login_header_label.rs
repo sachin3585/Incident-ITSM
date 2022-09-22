@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>login_header_label</name>
+   <tag></tag>
+   <elementGuidId>d0e45c01-5bb4-4555-a50e-341290656389</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::h5[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.ng-tns-c1-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>87124c38-b6a1-4d17-b5ed-1939368b4f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c1-0</value>
+      <webElementGuid>e9d5a4f7-7a98-4a7b-987d-c664a336d9e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>8d215af9-2283-4e0a-9b04-6ebf4cd0dac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;wolken-light-theme&quot;]/e-root[1]/e-wolken-login[@class=&quot;ng-tns-c1-0 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c1-0&quot;]/div[@class=&quot;login-wrap mat-typography&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;ng-tns-c1-0 ng-trigger ng-trigger-divSlideAnimation&quot;]/form[@class=&quot;bg-white login-form-container ng-tns-c1-0 ng-pristine ng-invalid ng-star-inserted ng-touched&quot;]/div[@class=&quot;ng-tns-c1-0&quot;]/div[@class=&quot;login-header&quot;]/h5[@class=&quot;ng-tns-c1-0&quot;]</value>
+      <webElementGuid>4485ea19-441b-4189-a62b-681bcdbbd976</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::h5[1]</value>
+      <webElementGuid>f0f97485-20b3-4f6a-8943-d6c2ffb232f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email is required'])[1]/preceding::h5[1]</value>
+      <webElementGuid>06b65580-40bf-4758-82ff-dcdcf0f91957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>c446751d-984f-410d-8734-ac8f627a06eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>d5cc1fba-5757-4100-9b66-f8160fb57a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>b5718c19-2b4f-43ed-b5ff-f709a5002653</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
